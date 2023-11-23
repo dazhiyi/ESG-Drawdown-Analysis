@@ -1,14 +1,15 @@
 # ESG Risk Ratings Correlation with DrawDown Beta 📈
 
 ## Project Overview 🎯
-This project, led by Zhiyi Da, focuses on the correlation between ESG risk ratings and various portfolio risk measures, specifically DrawDown Beta. The study applied and extended the methodologies of Ding and Uryasev (2022) related to DrawDown Beta and Portfolio Optimization.
+This project focuses on the correlation between ESG risk ratings and various portfolio risk measures, specifically DrawDown Beta. The study applied and extended the methodologies of Ding and Uryasev (2022) related to DrawDown Beta and Portfolio Optimization.
 
 ## Objectives 🎯
 - Implement and analyze the DrawDown Beta as per Ding and Uryasev (2022).
 - Investigate the correlation of ESG risk ratings with:
   - Standard Beta ERoD0+
-  - Beta CDaR0.9
-  - Beta Maximum Drawdown
+  - ERoD0+ Beta CDaR0.9
+  - CDaR0.9 Beta
+  - Maximum Drawdown
   - Annual Return
 
 ## Methodology 🔍
